@@ -28,19 +28,19 @@ I have added Bootstrap on top of the template. Many of the elements that support
 
 
 
-![LoginPage](https://github.com/francosta/job_application_tracker/blob/master/mod3_project-frontend/assets/img/Screenshots/Screenshot%202019-07-15%20at%2013.27.22.png)
+![LoginPage](https://github.com/endyranaudo/job_application_tracker/blob/master/job_application_tracker-frontend/assets/img/Screenshots/login.png)
 Login Page
 
-![Dashboard](https://github.com/francosta/job_application_tracker/blob/master/mod3_project-frontend/assets/img/Screenshots/Screenshot%202019-07-15%20at%2013.27.31.png)
+![Dashboard](https://github.com/endyranaudo/job_application_tracker/blob/master/job_application_tracker-frontend/assets/img/Screenshots/dashboard.png)
 Dashboard
 
-![UserProfile](https://github.com/francosta/job_application_tracker/blob/master/mod3_project-frontend/assets/img/Screenshots/Screenshot%202019-07-15%20at%2013.27.59.png)
+![UserProfile](https://github.com/endyranaudo/job_application_tracker/blob/master/job_application_tracker-frontend/assets/img/Screenshots/profile.png)
 User Profile
 
-![CoverLetterBank](https://github.com/francosta/job_application_tracker/blob/master/mod3_project-frontend/assets/img/Screenshots/Screenshot%202019-07-15%20at%2013.28.28.png)
+![CoverLetterBank](https://github.com/endyranaudo/job_application_tracker/blob/master/job_application_tracker-frontend/assets/img/Screenshots/cover.png)
 Cover Letter Bank
 
-![JobFinder](https://github.com/francosta/job_application_tracker/blob/master/mod3_project-frontend/assets/img/Screenshots/Screenshot%202019-07-15%20at%2013.28.36.png)
+![JobFinder](https://github.com/endyranaudo/job_application_tracker/blob/master/job_application_tracker-frontend/assets/img/Screenshots/jobs.png)
 Job Finder Tool
 
 # Initialization
